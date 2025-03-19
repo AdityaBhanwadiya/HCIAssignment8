@@ -57,5 +57,12 @@ If everything’s set up correctly, you’ll get a playful Hello World message f
 Working on this project taught me a few things:
 
 - Adapting to the new OpenAI 1.0 API: Some function calls changed, which meant updating my code to the new format.
-- Azure-specific Authentication: Azure’s deployment names and endpoints can be tricky at first. But once you get the hang of it, it’s straightforward.
+- Azure-specific Authentication: Azure’s deployment names and endpoints can be tricky at first. But once I got the hang of it, it’s straightforward.
 - Environment Variables: Using .env to store keys is way safer than hardcoding them. Plus, it keeps your repo nice and clean.
+
+### Potential Applications
+- 🚀 Educational Tools: Quickly demonstrate AI capabilities for classrooms or online tutorials.
+
+- 🖥️ Rapid Prototyping: Test new ideas and integrations with Azure OpenAI without extensive setup.
+
+- ✨ Creative Projects: Generate engaging interactive elements for web apps and presentations.
