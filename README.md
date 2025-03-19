@@ -56,6 +56,6 @@ If everything’s set up correctly, you’ll get a playful Hello World message f
 ### 🔥 Reflection
 Working on this project taught me a few things:
 
-Adapting to the new OpenAI 1.0 API: Some function calls changed, which meant updating my code to the new format.
-Azure-specific Authentication: Azure’s deployment names and endpoints can be tricky at first. But once you get the hang of it, it’s straightforward.
-Environment Variables: Using .env to store keys is way safer than hardcoding them. Plus, it keeps your repo nice and clean.
+- Adapting to the new OpenAI 1.0 API: Some function calls changed, which meant updating my code to the new format.
+- Azure-specific Authentication: Azure’s deployment names and endpoints can be tricky at first. But once you get the hang of it, it’s straightforward.
+- Environment Variables: Using .env to store keys is way safer than hardcoding them. Plus, it keeps your repo nice and clean.
